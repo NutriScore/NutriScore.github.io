@@ -1,4 +1,4 @@
-EatSafe-Website
+NutriScore-Website
 ===============
 
-Landing page for the EatSafe iPhone App
+The Official Landing Page of the NutriScore app
