@@ -68,7 +68,7 @@ header {
     IMAGE
 ----------------------------------------*/
 #image {
-    background-color: #7ad6ff;
+    background-color: #7affab;
     color: #444;
     padding-top: 100px;
     padding-bottom: 0px;
@@ -89,7 +89,7 @@ header {
     VIDEO
 ----------------------------------------*/
 #video {
-    background-color: #7ad6ff;
+    background-color: #7aff9e;
     color: #444;
     padding-top: 150px;
     padding-bottom: 0px;
@@ -128,7 +128,7 @@ header {
     PURCHASE
 ----------------------------------------*/
 #purchase {
-    background-color: #2c3e50;
+    background-color: #3f9244;
     color: #fff;
     padding-top: 50px;
     padding-bottom: 100px;
@@ -177,7 +177,7 @@ header {
     SOCIAL
 ----------------------------------------*/
 #social {
-    background-color: #d5f2ff;
+    background-color: #d5ffde;
     padding-top: 100px;
     padding-bottom: 100px;
 }
@@ -193,7 +193,7 @@ header {
     border-radius: 50%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
-    background-color: #0090f4;
+    background-color: #00f45a;
     color: #fff;
     font-size: 32px;
     height: 80px;
@@ -205,14 +205,14 @@ header {
 }
 .social-icon:hover,
 .social-icon:focus {
-    background-color: #006df3;
+    background-color: #21f300;
 }
 
 /*----------------------------------------
     SUBSCRIBE
 ----------------------------------------*/
 #subscribe {
-    background-color: #7ad6ff;
+    background-color: #7affa4;
     color: #fff;
     padding-top: 100px;
     padding-bottom: 150px;
@@ -225,7 +225,7 @@ header {
     FOOTER
 ----------------------------------------*/
 footer {
-    background-color: #7ad6ff;
+    background-color: #7affa4;
     color: #fff;
     margin: 0;
     padding: 0;
