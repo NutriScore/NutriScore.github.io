@@ -225,7 +225,7 @@ header {
     FOOTER
 ----------------------------------------*/
 footer {
-    background-color: #7affa4;
+    background-color: #3f9244;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -427,7 +427,7 @@ hr.separator-alt {
     margin-right: -250px;
     right: 0;
     width: 250px;
-    background: #0090f4;
+    background: #18c750;
     position: fixed;
     height: 100%;
     overflow-y: auto;
